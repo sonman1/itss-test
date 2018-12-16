@@ -1,4 +1,4 @@
-## @sonman1/itss-test@1.0.0-SNAPSHOT.201812161148
+## @sonman1/itss-test@1.0.0-SNAPSHOT.201812161548
 
 ### Building
 
@@ -19,7 +19,7 @@ Navigate to the folder of your consuming project and run one of next commands.
 _published:_
 
 ```
-npm install @sonman1/itss-test@1.0.0-SNAPSHOT.201812161148 --save
+npm install @sonman1/itss-test@1.0.0-SNAPSHOT.201812161548 --save
 ```
 
 _without publishing (not recommended):_
