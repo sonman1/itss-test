@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-=======
-export * from './authLoginCmd';
->>>>>>> 3656690318f4d09e142afc10214c71ea8d0d007f
 export * from './authSignUpCmd';
 export * from './changePasswordCmd';
 export * from './changePasswordDto';

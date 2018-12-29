@@ -18,11 +18,7 @@ if [ "$git_repo_id" = "" ]; then
 fi
 
 if [ "$release_note" = "" ]; then
-<<<<<<< HEAD
     release_note="test commit2"
-=======
-    release_note="v0.1"
->>>>>>> 3656690318f4d09e142afc10214c71ea8d0d007f
     echo "[INFO] No command line input provided. Set \$release_note to $release_note"
 fi
 

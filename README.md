@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 ## @sonman1/itss-test@1.0.0-SNAPSHOT.201812291429
-=======
-## @sonman1/itss-test@1.0.0-SNAPSHOT.201812161548
->>>>>>> 3656690318f4d09e142afc10214c71ea8d0d007f
 
 ### Building
 
@@ -23,11 +19,7 @@ Navigate to the folder of your consuming project and run one of next commands.
 _published:_
 
 ```
-<<<<<<< HEAD
 npm install @sonman1/itss-test@1.0.0-SNAPSHOT.201812291429 --save
-=======
-npm install @sonman1/itss-test@1.0.0-SNAPSHOT.201812161548 --save
->>>>>>> 3656690318f4d09e142afc10214c71ea8d0d007f
 ```
 
 _without publishing (not recommended):_
